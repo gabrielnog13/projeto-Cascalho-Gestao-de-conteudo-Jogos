@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav-list a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #2A2831;
+    height: 16vh;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+}
+
+.nav-list li {
+    margin: 0px 102px;
+}
+
+.img-nav {
+    margin-left: 52px;
+    margin-bottom: 5px;
+}
+
+.img-nav2 {
+    margin-left: 42px;
+    margin-bottom: 5px;
+}
+
+.img-nav3 {
+    margin-left: 42px;
+    margin-bottom: 5px;
+}
+
+.img-nav4 {
+    margin-left: 48px;
+    margin-bottom: 5px;
+}
